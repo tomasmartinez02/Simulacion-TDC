@@ -4,27 +4,17 @@ import matplotlib.pyplot as plt
 import time
 import math
 
-# estado transitorio, se representa?
-# entrada, punto suma
-# controlador 
-# actuador que segun la salida del controlador levante o baje servers
-# perturbacion DOS
-# proceso que con un random dentro de lo normal genere requests
-# Salida de cantidad de requests atendidas
-# transductor que sabiendo las requests que se atendieron y la cantidad de servidores activos diga 
-# cuantas atendio cada server y lo transforme a un porcentaje de uso de CPU
-
-volts_input = 3  # Porcentaje de uso de CPU deseado en V equivalente a 60%
-initial_requests = 0  # Número inicial de requests
+volts_input = 3  
+initial_requests = 0  
 time_step = 1  
-total_time = 301 # 511
-max_requests_server = 2000 # por calculo de relacion de solidaridad
-min_servers = 4 # -> si o si tiene que ser 3 o más. Si es 1 o 2 se comporta raro cuando hay pocas requests
-max_servers = 10 #definir
-v_nominal_por_server = 1200 # requests por segundo equivalente a 60% por relacion de solidaridad
-cant_nominal_servers = 5 #definir
-average_time = 0.0005 #definir Cuanto tardamos en responder la request
-tiempo_scan = 1 #definir (segundos)
+total_time = 301 
+max_requests_server = 2000 
+min_servers = 4 
+max_servers = 10 
+v_nominal_por_server = 1200 
+cant_nominal_servers = 5 
+average_time = 0.0005 
+tiempo_scan = 1 
 
 # Coeficientes del controlador PD 
 Kp = -1
@@ -87,19 +77,6 @@ aumento_temperatura = set(range(100, 104)).union(range(250, 254))
 def process(average_time):
     return 1 / average_time
 
-# def Kp_umbrales(error):
-#     abs_error = abs(error)
-#     if abs_error < 0.5:             # 0.5V = 10% CPU
-#         return -1
-#     elif 0.5 <= abs_error < 0.75:   # 0.75V = 15% CPU
-#         return -2
-#     elif 0.75 <= abs_error < 1:     # 1V = 20% CPU
-#         return -2.67
-#     elif 1 <= abs_error < 1.25:     # 1.25V = 25% CPU
-#         return -3
-#     else:
-#         return -3
-
 def umbrales(error):
     abs_error = abs(error)
     if abs_error < 0.5:             # 0.5V = 10% CPU
@@ -117,15 +94,11 @@ def temp_perturbation(t):
     return t in aumento_temperatura
 
 # Simulación del proceso
-for t in range(1, total_time, tiempo_scan): # habría que poner que el Scan es cada 15 seg ???
+for t in range(1, total_time, tiempo_scan): 
     requests = generate_requests(t)
-    # requests = int(input("Ingresar requests: "))
 
-    #Aca iria el DOS
     perturbacion_extra_req = generate_perturbacion(t)
     requests += perturbacion_extra_req
-
-    # requests -= process(average_time) # no se si es necesario o si asumimos que no se acumulan y todas se responden en ese tiempo.
 
     temp = temp_perturbation(t)
 
@@ -135,27 +108,10 @@ for t in range(1, total_time, tiempo_scan): # habría que poner que el Scan es c
     derivative = (error - previous_error)
     previous_error = error
 
-    # kp2 = Kp_umbrales(error)
-    # control_signal = kp2 * error + Kd * derivative #umbrales???
-
     control_signal = umbrales(error) + Kd * derivative
     
     new_num_servers = math.trunc(num_servers + control_signal)
     limited_new_num_servers = max(min_servers, min(max_servers, new_num_servers))
-    # if 1 > control_signal > -1:
-    #     new_num_servers = num_servers
-    # elif 2 > control_signal >= 1:
-    #     new_num_servers = num_servers + 1
-    # elif 3 > control_signal >= 2:
-    #     new_num_servers = num_servers + 2
-    # elif control_signal >= 3:
-    #     new_num_servers = num_servers + 3
-    # elif -1 >= control_signal > -2:
-    #     new_num_servers = num_servers - 1
-    # elif -2 >= control_signal > -3:
-    #     new_num_servers = num_servers - 2
-    # elif control_signal <= -3:
-    #     new_num_servers = num_servers - 3
     
     percentages_CPU.append(cpu_usage)
     percentages_CPU_V.append(volts_percentaje)
@@ -193,7 +149,6 @@ plt.subplot(3, 1, 2)
 plt.plot(times, cant_CPUs, label='cant CPU')
 plt.xlabel('Tiempo (seg)')
 plt.ylabel('cant CPU')
-# plt.title('Simulación de control de CPU')
 plt.legend()
 plt.grid(True)
 
@@ -201,18 +156,8 @@ plt.subplot(3, 1, 3)
 plt.plot(times, cant_requests, label='cant requests')
 plt.xlabel('Tiempo (seg)')
 plt.ylabel('cant requests')
-# plt.title('Simulación de control de CPU')
 plt.legend()
 plt.grid(True)
-
-# plt.subplot(3, 1, 2)
-# plt.plot(times, percentages_CPU_V, label='% CPU en Volts')
-# plt.axhline(y=volts_input, color='r', linestyle='--', label='% CPU deseado')
-# plt.xlabel('Tiempo (seg)')
-# plt.ylabel('% CPU (V)')
-# plt.title('Simulación de control de CPU')
-# plt.legend()
-# plt.grid(True)
 
 plt.tight_layout()
 plt.show()
