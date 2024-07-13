@@ -19,12 +19,12 @@ initial_requests = 0  # Número inicial de requests
 time_step = 1  
 total_time = 301 # 511
 max_requests_server = 2000 # por calculo de relacion de solidaridad
-min_servers = 3 # -> si o si tiene que ser 3 o más. Si es 1 o 2 se comporta raro cuando hay pocas requests
+min_servers = 4 # -> si o si tiene que ser 3 o más. Si es 1 o 2 se comporta raro cuando hay pocas requests
 max_servers = 10 #definir
 v_nominal_por_server = 1200 # requests por segundo equivalente a 60% por relacion de solidaridad
 cant_nominal_servers = 5 #definir
 average_time = 0.0005 #definir Cuanto tardamos en responder la request
-tiempo_scan = 15 #definir (segundos)
+tiempo_scan = 1 #definir (segundos)
 
 # Coeficientes del controlador PD 
 Kp = -1
@@ -61,9 +61,11 @@ times = [0]
 # Umbral 2 = [40% a 45%] y [75% a 80%] -> add/elim 2 servers
 # Umbral 3 = [35% a 40%] y [80% a 85%] -> add/elim 3 servers
 
-def percentaje_translator(requests, num_servers):
+def percentaje_translator(requests, num_servers, temp):
     requests_per_server = requests / num_servers
     cpu_usage = 100 * requests_per_server / max_requests_server
+    if temp:
+        cpu_usage += 10
     volts = cpu_usage * 5 / 100  # calculo el porcentaje de uso de CPU en V
     return (volts, cpu_usage)
 
@@ -71,7 +73,7 @@ inicializacion = {1: 1200, 16: 3600, 31: 4300, 46: 4800, 61: 5700, 76: 6000}
 def generate_requests(t):
     if t in inicializacion:
         return inicializacion[t]
-    r = np.random.uniform(0.9, 1.1)
+    r = np.random.uniform(0.89, 1.11)
     return r * v_nominal_por_server * cant_nominal_servers
 
 perturbaciones = {136: 2250, 151: 2250, 166: 2250}
@@ -79,6 +81,8 @@ def generate_perturbacion(t):
     if t in perturbaciones:
         return perturbaciones[t]
     return 0
+
+aumento_temperatura = set(range(100, 104)).union(range(250, 254))
 
 def process(average_time):
     return 1 / average_time
@@ -108,6 +112,9 @@ def umbrales(error):
         return -3 if error > 0 else 3
     else:
         return -3 if error > 0 else 3
+    
+def temp_perturbation(t):
+    return t in aumento_temperatura
 
 # Simulación del proceso
 for t in range(1, total_time, tiempo_scan): # habría que poner que el Scan es cada 15 seg ???
@@ -120,7 +127,9 @@ for t in range(1, total_time, tiempo_scan): # habría que poner que el Scan es c
 
     # requests -= process(average_time) # no se si es necesario o si asumimos que no se acumulan y todas se responden en ese tiempo.
 
-    (volts_percentaje, cpu_usage) = percentaje_translator(requests, num_servers)
+    temp = temp_perturbation(t)
+
+    (volts_percentaje, cpu_usage) = percentaje_translator(requests, num_servers, temp)
 
     error = volts_input - volts_percentaje
     derivative = (error - previous_error)
@@ -153,8 +162,8 @@ for t in range(1, total_time, tiempo_scan): # habría que poner que el Scan es c
     cant_CPUs.append(limited_new_num_servers)
     cant_requests.append(requests)
     times.append(t)
-    print('t:', t, 'num_servers', num_servers, 'cpu_usage:', cpu_usage, 'requests:', requests)
-    print('control_signal:', control_signal, 'new_num_servers:', limited_new_num_servers)
+    print(f'Tiempo: {t} - Cantidad de servidores activos: {num_servers} - Porcentaje de uso de CPU: {cpu_usage:.2f}%')
+    print(f'Cantidad de requests: {int(requests)} - Señal de control: {control_signal} - Nuevo numero de servidores: {limited_new_num_servers}')
 
     num_servers = limited_new_num_servers
     print('-----------------------------------------------------------------')
