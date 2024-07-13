@@ -1,0 +1,860 @@
+Tiempo: 1 - Cantidad de servidores activos: 4 - Porcentaje de uso de CPU: 15.00%
+Cantidad de requests: 1200 - Señal de control: -3.0 - Nuevo numero de servidores: 4
+-----------------------------------------------------------------
+Tiempo: 2 - Cantidad de servidores activos: 4 - Porcentaje de uso de CPU: 77.73%
+Cantidad de requests: 6218 - Señal de control: 2.0 - Nuevo numero de servidores: 6
+-----------------------------------------------------------------
+Tiempo: 3 - Cantidad de servidores activos: 6 - Porcentaje de uso de CPU: 46.56%
+Cantidad de requests: 5586 - Señal de control: -1.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 4 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 55.26%
+Cantidad de requests: 5525 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 5 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 65.49%
+Cantidad de requests: 6549 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 6 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 65.23%
+Cantidad de requests: 6523 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 7 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 59.25%
+Cantidad de requests: 5925 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 8 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 60.28%
+Cantidad de requests: 6028 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 9 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 58.62%
+Cantidad de requests: 5862 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 10 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 57.70%
+Cantidad de requests: 5770 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 11 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 65.33%
+Cantidad de requests: 6532 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 12 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 64.00%
+Cantidad de requests: 6399 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 13 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 64.53%
+Cantidad de requests: 6452 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 14 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 65.44%
+Cantidad de requests: 6543 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 15 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 63.30%
+Cantidad de requests: 6329 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 16 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 36.00%
+Cantidad de requests: 3600 - Señal de control: -3.0 - Nuevo numero de servidores: 4
+-----------------------------------------------------------------
+Tiempo: 17 - Cantidad de servidores activos: 4 - Porcentaje de uso de CPU: 77.47%
+Cantidad de requests: 6197 - Señal de control: 2.0 - Nuevo numero de servidores: 6
+-----------------------------------------------------------------
+Tiempo: 18 - Cantidad de servidores activos: 6 - Porcentaje de uso de CPU: 52.62%
+Cantidad de requests: 6314 - Señal de control: 0.0 - Nuevo numero de servidores: 6
+-----------------------------------------------------------------
+Tiempo: 19 - Cantidad de servidores activos: 6 - Porcentaje de uso de CPU: 54.16%
+Cantidad de requests: 6499 - Señal de control: 0.0 - Nuevo numero de servidores: 6
+-----------------------------------------------------------------
+Tiempo: 20 - Cantidad de servidores activos: 6 - Porcentaje de uso de CPU: 44.75%
+Cantidad de requests: 5370 - Señal de control: -2.0 - Nuevo numero de servidores: 4
+-----------------------------------------------------------------
+Tiempo: 21 - Cantidad de servidores activos: 4 - Porcentaje de uso de CPU: 82.25%
+Cantidad de requests: 6579 - Señal de control: 3.0 - Nuevo numero de servidores: 7
+-----------------------------------------------------------------
+Tiempo: 22 - Cantidad de servidores activos: 7 - Porcentaje de uso de CPU: 38.28%
+Cantidad de requests: 5358 - Señal de control: -3.0 - Nuevo numero de servidores: 4
+-----------------------------------------------------------------
+Tiempo: 23 - Cantidad de servidores activos: 4 - Porcentaje de uso de CPU: 76.05%
+Cantidad de requests: 6084 - Señal de control: 2.0 - Nuevo numero de servidores: 6
+-----------------------------------------------------------------
+Tiempo: 24 - Cantidad de servidores activos: 6 - Porcentaje de uso de CPU: 55.14%
+Cantidad de requests: 6617 - Señal de control: 0.0 - Nuevo numero de servidores: 6
+-----------------------------------------------------------------
+Tiempo: 25 - Cantidad de servidores activos: 6 - Porcentaje de uso de CPU: 50.39%
+Cantidad de requests: 6047 - Señal de control: 0.0 - Nuevo numero de servidores: 6
+-----------------------------------------------------------------
+Tiempo: 26 - Cantidad de servidores activos: 6 - Porcentaje de uso de CPU: 50.65%
+Cantidad de requests: 6078 - Señal de control: 0.0 - Nuevo numero de servidores: 6
+-----------------------------------------------------------------
+Tiempo: 27 - Cantidad de servidores activos: 6 - Porcentaje de uso de CPU: 48.28%
+Cantidad de requests: 5793 - Señal de control: -1.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 28 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 61.39%
+Cantidad de requests: 6139 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 29 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 63.76%
+Cantidad de requests: 6376 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 30 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 55.94%
+Cantidad de requests: 5594 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 31 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 43.00%
+Cantidad de requests: 4300 - Señal de control: -2.0 - Nuevo numero de servidores: 4
+-----------------------------------------------------------------
+Tiempo: 32 - Cantidad de servidores activos: 4 - Porcentaje de uso de CPU: 80.39%
+Cantidad de requests: 6431 - Señal de control: 3.0 - Nuevo numero de servidores: 7
+-----------------------------------------------------------------
+Tiempo: 33 - Cantidad de servidores activos: 7 - Porcentaje de uso de CPU: 46.79%
+Cantidad de requests: 6549 - Señal de control: -1.0 - Nuevo numero de servidores: 6
+-----------------------------------------------------------------
+Tiempo: 34 - Cantidad de servidores activos: 6 - Porcentaje de uso de CPU: 47.56%
+Cantidad de requests: 5706 - Señal de control: -1.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 35 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 58.54%
+Cantidad de requests: 5853 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 36 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 63.78%
+Cantidad de requests: 6377 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 37 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 57.91%
+Cantidad de requests: 5790 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 38 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 57.05%
+Cantidad de requests: 5704 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 39 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 61.71%
+Cantidad de requests: 6170 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 40 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 55.37%
+Cantidad de requests: 5536 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 41 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 61.67%
+Cantidad de requests: 6166 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 42 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 63.43%
+Cantidad de requests: 6342 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 43 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 55.02%
+Cantidad de requests: 5502 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 44 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 64.63%
+Cantidad de requests: 6462 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 45 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 63.75%
+Cantidad de requests: 6375 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 46 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 48.00%
+Cantidad de requests: 4800 - Señal de control: -1.0 - Nuevo numero de servidores: 4
+-----------------------------------------------------------------
+Tiempo: 47 - Cantidad de servidores activos: 4 - Porcentaje de uso de CPU: 78.14%
+Cantidad de requests: 6250 - Señal de control: 2.0 - Nuevo numero de servidores: 6
+-----------------------------------------------------------------
+Tiempo: 48 - Cantidad de servidores activos: 6 - Porcentaje de uso de CPU: 48.58%
+Cantidad de requests: 5829 - Señal de control: -1.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 49 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 57.70%
+Cantidad de requests: 5770 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 50 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 66.49%
+Cantidad de requests: 6649 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 51 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 61.98%
+Cantidad de requests: 6198 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 52 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 55.16%
+Cantidad de requests: 5516 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 53 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 60.10%
+Cantidad de requests: 6010 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 54 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 55.13%
+Cantidad de requests: 5512 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 55 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 56.13%
+Cantidad de requests: 5612 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 56 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 64.40%
+Cantidad de requests: 6440 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 57 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 55.40%
+Cantidad de requests: 5540 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 58 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 58.94%
+Cantidad de requests: 5893 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 59 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 65.45%
+Cantidad de requests: 6544 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 60 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 66.06%
+Cantidad de requests: 6606 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 61 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 57.00%
+Cantidad de requests: 5700 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 62 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 55.52%
+Cantidad de requests: 5552 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 63 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 66.27%
+Cantidad de requests: 6627 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 64 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 55.49%
+Cantidad de requests: 5549 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 65 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 56.85%
+Cantidad de requests: 5684 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 66 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 53.62%
+Cantidad de requests: 5362 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 67 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 54.13%
+Cantidad de requests: 5412 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 68 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 65.09%
+Cantidad de requests: 6509 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 69 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 59.80%
+Cantidad de requests: 5980 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 70 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 62.16%
+Cantidad de requests: 6215 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 71 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 60.29%
+Cantidad de requests: 6028 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 72 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 64.66%
+Cantidad de requests: 6466 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 73 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 57.55%
+Cantidad de requests: 5755 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 74 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 60.12%
+Cantidad de requests: 6011 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 75 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 59.34%
+Cantidad de requests: 5934 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 76 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 60.00%
+Cantidad de requests: 6000 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 77 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 55.33%
+Cantidad de requests: 5533 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 78 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 56.09%
+Cantidad de requests: 5608 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 79 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 65.86%
+Cantidad de requests: 6585 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 80 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 54.09%
+Cantidad de requests: 5409 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 81 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 58.29%
+Cantidad de requests: 5828 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 82 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 55.71%
+Cantidad de requests: 5570 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 83 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 62.73%
+Cantidad de requests: 6273 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 84 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 54.45%
+Cantidad de requests: 5444 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 85 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 54.52%
+Cantidad de requests: 5451 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 86 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 54.21%
+Cantidad de requests: 5420 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 87 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 61.30%
+Cantidad de requests: 6130 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 88 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 62.42%
+Cantidad de requests: 6242 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 89 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 58.66%
+Cantidad de requests: 5866 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 90 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 60.90%
+Cantidad de requests: 6090 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 91 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 58.81%
+Cantidad de requests: 5881 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 92 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 55.95%
+Cantidad de requests: 5594 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 93 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 56.15%
+Cantidad de requests: 5615 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 94 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 65.15%
+Cantidad de requests: 6514 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 95 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 61.33%
+Cantidad de requests: 6132 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 96 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 55.83%
+Cantidad de requests: 5583 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 97 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 66.53%
+Cantidad de requests: 6652 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 98 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 60.06%
+Cantidad de requests: 6005 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 99 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 55.20%
+Cantidad de requests: 5519 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 100 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 70.93%
+Cantidad de requests: 6092 - Señal de control: 1.0 - Nuevo numero de servidores: 6
+-----------------------------------------------------------------
+Tiempo: 101 - Cantidad de servidores activos: 6 - Porcentaje de uso de CPU: 62.91%
+Cantidad de requests: 6348 - Señal de control: 0.0 - Nuevo numero de servidores: 6
+-----------------------------------------------------------------
+Tiempo: 102 - Cantidad de servidores activos: 6 - Porcentaje de uso de CPU: 62.30%
+Cantidad de requests: 6275 - Señal de control: 0.0 - Nuevo numero de servidores: 6
+-----------------------------------------------------------------
+Tiempo: 103 - Cantidad de servidores activos: 6 - Porcentaje de uso de CPU: 55.36%
+Cantidad de requests: 5443 - Señal de control: 0.0 - Nuevo numero de servidores: 6
+-----------------------------------------------------------------
+Tiempo: 104 - Cantidad de servidores activos: 6 - Porcentaje de uso de CPU: 45.01%
+Cantidad de requests: 5401 - Señal de control: -1.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 105 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 61.55%
+Cantidad de requests: 6155 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 106 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 53.92%
+Cantidad de requests: 5391 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 107 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 59.76%
+Cantidad de requests: 5976 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 108 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 56.34%
+Cantidad de requests: 5633 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 109 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 60.00%
+Cantidad de requests: 6000 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 110 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 62.69%
+Cantidad de requests: 6268 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 111 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 60.28%
+Cantidad de requests: 6027 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 112 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 54.72%
+Cantidad de requests: 5471 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 113 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 60.56%
+Cantidad de requests: 6056 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 114 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 59.54%
+Cantidad de requests: 5954 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 115 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 62.32%
+Cantidad de requests: 6232 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 116 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 64.36%
+Cantidad de requests: 6435 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 117 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 65.21%
+Cantidad de requests: 6521 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 118 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 66.10%
+Cantidad de requests: 6609 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 119 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 64.66%
+Cantidad de requests: 6466 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 120 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 62.27%
+Cantidad de requests: 6227 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 121 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 56.62%
+Cantidad de requests: 5661 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 122 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 61.87%
+Cantidad de requests: 6187 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 123 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 62.73%
+Cantidad de requests: 6272 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 124 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 53.90%
+Cantidad de requests: 5390 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 125 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 66.06%
+Cantidad de requests: 6606 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 126 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 57.52%
+Cantidad de requests: 5751 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 127 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 58.32%
+Cantidad de requests: 5831 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 128 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 63.50%
+Cantidad de requests: 6350 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 129 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 56.86%
+Cantidad de requests: 5685 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 130 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 65.17%
+Cantidad de requests: 6516 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 131 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 61.20%
+Cantidad de requests: 6120 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 132 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 56.22%
+Cantidad de requests: 5621 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 133 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 61.00%
+Cantidad de requests: 6099 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 134 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 63.66%
+Cantidad de requests: 6366 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 135 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 59.30%
+Cantidad de requests: 5930 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 136 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 85.84%
+Cantidad de requests: 8584 - Señal de control: 3.0 - Nuevo numero de servidores: 8
+-----------------------------------------------------------------
+Tiempo: 137 - Cantidad de servidores activos: 8 - Porcentaje de uso de CPU: 40.52%
+Cantidad de requests: 6483 - Señal de control: -2.0 - Nuevo numero de servidores: 6
+-----------------------------------------------------------------
+Tiempo: 138 - Cantidad de servidores activos: 6 - Porcentaje de uso de CPU: 47.83%
+Cantidad de requests: 5739 - Señal de control: -1.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 139 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 59.61%
+Cantidad de requests: 5960 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 140 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 65.75%
+Cantidad de requests: 6574 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 141 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 58.80%
+Cantidad de requests: 5880 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 142 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 54.80%
+Cantidad de requests: 5479 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 143 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 61.69%
+Cantidad de requests: 6168 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 144 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 63.22%
+Cantidad de requests: 6322 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 145 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 54.14%
+Cantidad de requests: 5414 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 146 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 54.32%
+Cantidad de requests: 5432 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 147 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 57.24%
+Cantidad de requests: 5723 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 148 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 65.75%
+Cantidad de requests: 6575 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 149 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 65.08%
+Cantidad de requests: 6507 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 150 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 54.06%
+Cantidad de requests: 5405 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 151 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 77.45%
+Cantidad de requests: 7744 - Señal de control: 2.0 - Nuevo numero de servidores: 7
+-----------------------------------------------------------------
+Tiempo: 152 - Cantidad de servidores activos: 7 - Porcentaje de uso de CPU: 43.76%
+Cantidad de requests: 6125 - Señal de control: -2.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 153 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 65.41%
+Cantidad de requests: 6540 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 154 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 55.60%
+Cantidad de requests: 5560 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 155 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 62.07%
+Cantidad de requests: 6207 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 156 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 59.78%
+Cantidad de requests: 5977 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 157 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 65.88%
+Cantidad de requests: 6587 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 158 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 59.47%
+Cantidad de requests: 5946 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 159 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 62.01%
+Cantidad de requests: 6201 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 160 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 57.08%
+Cantidad de requests: 5707 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 161 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 57.03%
+Cantidad de requests: 5702 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 162 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 60.86%
+Cantidad de requests: 6085 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 163 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 54.22%
+Cantidad de requests: 5421 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 164 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 56.23%
+Cantidad de requests: 5622 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 165 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 54.41%
+Cantidad de requests: 5440 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 166 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 82.30%
+Cantidad de requests: 8230 - Señal de control: 3.0 - Nuevo numero de servidores: 8
+-----------------------------------------------------------------
+Tiempo: 167 - Cantidad de servidores activos: 8 - Porcentaje de uso de CPU: 35.47%
+Cantidad de requests: 5675 - Señal de control: -3.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 168 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 60.81%
+Cantidad de requests: 6081 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 169 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 56.14%
+Cantidad de requests: 5613 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 170 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 63.96%
+Cantidad de requests: 6396 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 171 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 59.03%
+Cantidad de requests: 5902 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 172 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 64.99%
+Cantidad de requests: 6498 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 173 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 62.90%
+Cantidad de requests: 6290 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 174 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 60.05%
+Cantidad de requests: 6004 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 175 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 65.60%
+Cantidad de requests: 6560 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 176 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 58.22%
+Cantidad de requests: 5821 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 177 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 60.84%
+Cantidad de requests: 6084 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 178 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 65.30%
+Cantidad de requests: 6530 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 179 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 63.77%
+Cantidad de requests: 6376 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 180 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 64.07%
+Cantidad de requests: 6407 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 181 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 62.78%
+Cantidad de requests: 6278 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 182 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 54.47%
+Cantidad de requests: 5447 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 183 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 56.45%
+Cantidad de requests: 5645 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 184 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 61.63%
+Cantidad de requests: 6163 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 185 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 61.45%
+Cantidad de requests: 6144 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 186 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 63.89%
+Cantidad de requests: 6389 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 187 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 63.32%
+Cantidad de requests: 6332 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 188 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 65.50%
+Cantidad de requests: 6550 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 189 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 61.40%
+Cantidad de requests: 6139 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 190 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 56.09%
+Cantidad de requests: 5608 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 191 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 53.72%
+Cantidad de requests: 5371 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 192 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 66.23%
+Cantidad de requests: 6623 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 193 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 53.41%
+Cantidad de requests: 5341 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 194 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 65.44%
+Cantidad de requests: 6543 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 195 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 60.50%
+Cantidad de requests: 6049 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 196 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 64.84%
+Cantidad de requests: 6483 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 197 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 56.39%
+Cantidad de requests: 5638 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 198 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 60.94%
+Cantidad de requests: 6094 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 199 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 65.54%
+Cantidad de requests: 6553 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 200 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 55.40%
+Cantidad de requests: 5540 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 201 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 61.13%
+Cantidad de requests: 6113 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 202 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 63.66%
+Cantidad de requests: 6366 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 203 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 63.91%
+Cantidad de requests: 6391 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 204 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 59.63%
+Cantidad de requests: 5962 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 205 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 61.70%
+Cantidad de requests: 6170 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 206 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 62.57%
+Cantidad de requests: 6256 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 207 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 61.99%
+Cantidad de requests: 6199 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 208 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 61.98%
+Cantidad de requests: 6198 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 209 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 57.71%
+Cantidad de requests: 5771 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 210 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 54.40%
+Cantidad de requests: 5440 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 211 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 61.77%
+Cantidad de requests: 6176 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 212 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 56.51%
+Cantidad de requests: 5651 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 213 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 57.81%
+Cantidad de requests: 5781 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 214 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 63.62%
+Cantidad de requests: 6362 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 215 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 57.20%
+Cantidad de requests: 5720 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 216 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 64.35%
+Cantidad de requests: 6434 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 217 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 62.22%
+Cantidad de requests: 6221 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 218 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 66.11%
+Cantidad de requests: 6610 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 219 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 60.54%
+Cantidad de requests: 6054 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 220 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 65.88%
+Cantidad de requests: 6587 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 221 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 54.59%
+Cantidad de requests: 5458 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 222 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 60.02%
+Cantidad de requests: 6002 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 223 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 59.61%
+Cantidad de requests: 5961 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 224 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 65.97%
+Cantidad de requests: 6596 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 225 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 55.12%
+Cantidad de requests: 5511 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 226 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 56.24%
+Cantidad de requests: 5624 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 227 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 54.67%
+Cantidad de requests: 5466 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 228 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 59.79%
+Cantidad de requests: 5978 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 229 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 58.63%
+Cantidad de requests: 5863 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 230 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 64.10%
+Cantidad de requests: 6409 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 231 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 55.38%
+Cantidad de requests: 5538 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 232 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 54.26%
+Cantidad de requests: 5426 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 233 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 66.42%
+Cantidad de requests: 6642 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 234 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 55.82%
+Cantidad de requests: 5581 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 235 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 65.86%
+Cantidad de requests: 6586 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 236 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 55.98%
+Cantidad de requests: 5597 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 237 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 56.73%
+Cantidad de requests: 5672 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 238 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 56.44%
+Cantidad de requests: 5644 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 239 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 59.00%
+Cantidad de requests: 5900 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 240 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 66.20%
+Cantidad de requests: 6619 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 241 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 62.64%
+Cantidad de requests: 6263 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 242 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 59.95%
+Cantidad de requests: 5994 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 243 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 63.51%
+Cantidad de requests: 6350 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 244 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 65.65%
+Cantidad de requests: 6564 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 245 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 59.83%
+Cantidad de requests: 5983 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 246 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 58.45%
+Cantidad de requests: 5844 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 247 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 59.20%
+Cantidad de requests: 5920 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 248 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 66.36%
+Cantidad de requests: 6636 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 249 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 60.35%
+Cantidad de requests: 6034 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 250 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 69.32%
+Cantidad de requests: 5932 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 251 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 72.53%
+Cantidad de requests: 6253 - Señal de control: 1.0 - Nuevo numero de servidores: 6
+-----------------------------------------------------------------
+Tiempo: 252 - Cantidad de servidores activos: 6 - Porcentaje de uso de CPU: 60.17%
+Cantidad de requests: 6020 - Señal de control: 0.0 - Nuevo numero de servidores: 6
+-----------------------------------------------------------------
+Tiempo: 253 - Cantidad de servidores activos: 6 - Porcentaje de uso de CPU: 55.85%
+Cantidad de requests: 5502 - Señal de control: 0.0 - Nuevo numero de servidores: 6
+-----------------------------------------------------------------
+Tiempo: 254 - Cantidad de servidores activos: 6 - Porcentaje de uso de CPU: 50.07%
+Cantidad de requests: 6008 - Señal de control: 0.0 - Nuevo numero de servidores: 6
+-----------------------------------------------------------------
+Tiempo: 255 - Cantidad de servidores activos: 6 - Porcentaje de uso de CPU: 51.26%
+Cantidad de requests: 6151 - Señal de control: 0.0 - Nuevo numero de servidores: 6
+-----------------------------------------------------------------
+Tiempo: 256 - Cantidad de servidores activos: 6 - Porcentaje de uso de CPU: 47.23%
+Cantidad de requests: 5667 - Señal de control: -1.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 257 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 63.08%
+Cantidad de requests: 6307 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 258 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 58.65%
+Cantidad de requests: 5865 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 259 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 64.12%
+Cantidad de requests: 6412 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 260 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 64.50%
+Cantidad de requests: 6450 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 261 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 53.85%
+Cantidad de requests: 5384 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 262 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 55.69%
+Cantidad de requests: 5568 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 263 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 56.84%
+Cantidad de requests: 5684 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 264 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 59.13%
+Cantidad de requests: 5913 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 265 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 62.00%
+Cantidad de requests: 6200 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 266 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 65.72%
+Cantidad de requests: 6571 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 267 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 54.92%
+Cantidad de requests: 5492 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 268 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 66.34%
+Cantidad de requests: 6633 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 269 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 63.32%
+Cantidad de requests: 6332 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 270 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 53.43%
+Cantidad de requests: 5342 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 271 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 66.53%
+Cantidad de requests: 6653 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 272 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 54.23%
+Cantidad de requests: 5422 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 273 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 64.44%
+Cantidad de requests: 6443 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 274 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 63.76%
+Cantidad de requests: 6376 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 275 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 63.66%
+Cantidad de requests: 6366 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 276 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 57.54%
+Cantidad de requests: 5754 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 277 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 58.92%
+Cantidad de requests: 5891 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 278 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 55.59%
+Cantidad de requests: 5559 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 279 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 55.92%
+Cantidad de requests: 5592 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 280 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 56.20%
+Cantidad de requests: 5620 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 281 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 57.15%
+Cantidad de requests: 5715 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 282 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 58.93%
+Cantidad de requests: 5892 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 283 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 60.57%
+Cantidad de requests: 6057 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 284 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 66.37%
+Cantidad de requests: 6637 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 285 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 66.26%
+Cantidad de requests: 6625 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 286 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 62.40%
+Cantidad de requests: 6239 - Señal de control: 0.0 - Nuevo numero de servidores: 5
+-----------------------------------------------------------------
+Tiempo: 287 - Cantidad de servidores activos: 5 - Porcentaje de uso de CPU: 54.91%
+Cantidad de requests: 5491 - Señal de control: 0.0 - Nuevo numero de servidores: 5
