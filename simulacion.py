@@ -18,7 +18,7 @@ tiempo_scan = 1
 
 # Coeficientes del controlador PD 
 Kp = -1
-Kd = 0
+Kd = 0.02
 
 requests = initial_requests
 previous_error = 0
@@ -59,7 +59,8 @@ def percentaje_translator(requests, num_servers, temp):
     volts = cpu_usage * 5 / 100  # calculo el porcentaje de uso de CPU en V
     return (volts, cpu_usage)
 
-inicializacion = {1: 1200, 16: 3600, 31: 4300, 46: 4800, 61: 5700, 76: 6000}
+#inicializacion = {1: 1200, 16: 3600, 31: 4300, 46: 4800, 61: 5700, 76: 6000}
+inicializacion = {1: 1200}
 def generate_requests(t):
     if t in inicializacion:
         return inicializacion[t]
