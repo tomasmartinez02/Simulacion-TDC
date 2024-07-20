@@ -18,7 +18,7 @@ tiempo_scan = 1
 
 # Coeficientes del controlador PD 
 Kp = -1
-Kd = 0.02
+Kd = 0.0008
 
 requests = initial_requests
 previous_error = 0
@@ -60,7 +60,7 @@ def percentaje_translator(requests, num_servers, temp):
     return (volts, cpu_usage)
 
 #inicializacion = {1: 1200, 16: 3600, 31: 4300, 46: 4800, 61: 5700, 76: 6000}
-inicializacion = {1: 1200}
+inicializacion = {1: 1200, 2:3600, 3:4800}
 def generate_requests(t):
     if t in inicializacion:
         return inicializacion[t]
@@ -109,9 +109,9 @@ for t in range(1, total_time, tiempo_scan):
     derivative = (error - previous_error)
     previous_error = error
 
-    control_signal = umbrales(error) + Kd * derivative
-    
-    new_num_servers = math.trunc(num_servers + control_signal)
+    control_signal = umbrales(error) + round(Kd * derivative, 3)
+
+    new_num_servers = math.ceil(num_servers + control_signal)
     limited_new_num_servers = max(min_servers, min(max_servers, new_num_servers))
     
     percentages_CPU.append(cpu_usage)
@@ -120,7 +120,7 @@ for t in range(1, total_time, tiempo_scan):
     cant_requests.append(requests)
     times.append(t)
     print(f'Tiempo: {t} - Cantidad de servidores activos: {num_servers} - Porcentaje de uso de CPU: {cpu_usage:.2f}%')
-    print(f'Cantidad de requests: {int(requests)} - Señal de control: {control_signal} - Nuevo numero de servidores: {limited_new_num_servers}')
+    print(f'Cantidad de requests: {int(requests)} - Señal de control: {control_signal:.2f} - Nuevo numero de servidores: {limited_new_num_servers}')
 
     num_servers = limited_new_num_servers
     print('-----------------------------------------------------------------')
