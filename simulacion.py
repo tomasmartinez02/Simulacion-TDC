@@ -15,7 +15,7 @@ cant_nominal_servers = 5
 tiempo_scan = 1 
 
 # Coeficientes del controlador PD 
-Kp = -1
+Kp = 1
 Kd = 0.0008
 
 requests = initial_requests
