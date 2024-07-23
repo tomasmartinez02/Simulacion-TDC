@@ -1,7 +1,5 @@
 import numpy as np
-import pandas as pd
 import matplotlib.pyplot as plt
-import time
 import math
 
 volts_input = 3  
@@ -99,6 +97,10 @@ def temp_perturbation(t):
 # Simulación del proceso
 for t in range(1, total_time, tiempo_scan): 
     requests = generate_requests(t)
+
+    # if t in range(50, 60):
+    # #     requests += int(input('Ingrese cantidad de requests extra: '))
+    # #     volts_input = float(input('Ingrese volts de entrada: '))
 
     perturbacion_extra_req = generate_perturbacion(t)
     requests += perturbacion_extra_req
