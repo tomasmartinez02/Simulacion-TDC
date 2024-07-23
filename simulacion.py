@@ -5,15 +5,13 @@ import time
 import math
 
 volts_input = 3  
-initial_requests = 0  
-time_step = 1  
-total_time = 301 
+initial_requests = 0
+total_time = 301
 max_requests_server = 2000 
 min_servers = 4 
 max_servers = 10 
 v_nominal_por_server = 1200 
 cant_nominal_servers = 5 
-average_time = 0.0005 
 tiempo_scan = 1 
 
 # Coeficientes del controlador PD 
@@ -25,7 +23,7 @@ previous_error = 0
 num_servers = min_servers
 percentages_CPU = [0]
 percentages_CPU_V = [0]
-cant_CPUs = [3]
+cant_CPUs = [num_servers]
 cant_requests = [initial_requests]
 times = [0]
 
@@ -41,10 +39,16 @@ times = [0]
 # 2V    --- 40%  --- 800 rps
 # 1.75V --- 35%  --- 700 rps
 # 1.5V  --- 30%  --- 600 rps
-# 1.25V --- 25% fin Umbral 3
-# 1V    --- 20% fin Umbral 2 e inicio Umbral 3
-# 0.75V --- 15% fin Umbral 1 e inicio Umbral 2
-# 0.5V  --- 10% inicio Umbral 1
+# 1.25V --- 25%  --- 500 rps
+# 1V    --- 20%  --- 400 rps
+# 0.75V --- 15%  --- 300 rps
+# 0.5V  --- 10%  --- 200 rps
+
+# Señal de error
+# 1.25V --- 25% - fin Umbral 3
+# 1V    --- 20% - fin Umbral 2 e inicio Umbral 3
+# 0.75V --- 15% - fin Umbral 1 e inicio Umbral 2
+# 0.5V  --- 10% - inicio Umbral 1
 
 # Umbral 0 = [50% a 70%]
 # Umbral 1 = [45% a 50%] y [70% a 75%] -> add/elim 1 server
@@ -59,25 +63,21 @@ def percentaje_translator(requests, num_servers, temp):
     volts = cpu_usage * 5 / 100  # calculo el porcentaje de uso de CPU en V
     return (volts, cpu_usage)
 
-#inicializacion = {1: 1200, 16: 3600, 31: 4300, 46: 4800, 61: 5700, 76: 6000}
-inicializacion = {1: 1200, 2:3600, 3:4800}
+inicializacion = {1: 1200, 2:3600, 3:4800, 4:5700, 5:6000}
 def generate_requests(t):
     if t in inicializacion:
         return inicializacion[t]
     r = np.random.uniform(0.89, 1.11)
     return r * v_nominal_por_server * cant_nominal_servers
 
+# Perturbaciones
 perturbaciones = {136: 2250, 151: 2250, 166: 2250}
 def generate_perturbacion(t):
     if t in perturbaciones:
         return perturbaciones[t]
     return 0
 
-aumento_temperatura = set(range(100, 104)).union(range(250, 254))
-
-def process(average_time):
-    return 1 / average_time
-
+# Umbral de control
 def umbrales(error):
     abs_error = abs(error)
     if abs_error < 0.5:             # 0.5V = 10% CPU
@@ -90,7 +90,9 @@ def umbrales(error):
         return -3 if error > 0 else 3
     else:
         return -3 if error > 0 else 3
-    
+
+# Perturbaciones de temperatura
+aumento_temperatura = set(range(100, 104)).union(range(250, 254))
 def temp_perturbation(t):
     return t in aumento_temperatura
 
@@ -120,7 +122,7 @@ for t in range(1, total_time, tiempo_scan):
     cant_requests.append(requests)
     times.append(t)
     print(f'Tiempo: {t} - Cantidad de servidores activos: {num_servers} - Porcentaje de uso de CPU: {cpu_usage:.2f}%')
-    print(f'Cantidad de requests: {int(requests)} - Señal de control: {control_signal:.2f} - Nuevo numero de servidores: {limited_new_num_servers}')
+    print(f'Cantidad de requests: {int(requests)} - Señal de control: {control_signal:.3f} - Nuevo numero de servidores: {limited_new_num_servers}')
 
     num_servers = limited_new_num_servers
     print('-----------------------------------------------------------------')
